@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Coronavirus",
+        "category": "Featured",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "turtlerock",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "India",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "silversalmoncreek",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Business",
+        "category": "Rivers",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "imageName": "chilkoottrail",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Politics",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "imageName": "stmarylake",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Sports",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "imageName": "twinlake",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Technology",
+        "category": "Lakes",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "imageName": "lakemcdonald",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "StartUps",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "imageName": "yukon_charleyrivers",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Entertainment",
+        "category": "Lakes",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "imageName": "icybay",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Education",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "imageName": "rainbowlake",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Hatke",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFavorite": true,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "imageName": "hiddenlake",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "International",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "imageName": "chincoteague",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Automobile",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "lakemcdonald",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Science",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1013,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "umbagog",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Travel",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1014,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "stmarylake",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    },
+    {
+        "name": "Miscellaneous",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1015,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "icybay",
+        "description": "India's tea production likely to dip 13% this year: Report Tea production in the country is likely to decline 13 per cent in the current calendar year due to restrictions on labour deployment amid the ongoing COVID-19 pandemic and adverse weather conditions, which will result in an increase in production cost, according to a report. Factors like restrictions on labour deployment due to the coronavirus pandemic have impacted the bulk tea players in northern India in an unfavourable manner during March, April and May 2020, according to the report by rating agency ICRA. While there were expectations of production returning to normal levels from June, inclement weather conditions and flooding in Assam in June witnessed crop losses ranging from 15 per cent to 25 per cent, it added."
+    }
+]
